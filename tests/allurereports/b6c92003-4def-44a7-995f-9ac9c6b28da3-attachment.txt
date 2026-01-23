@@ -1,0 +1,46 @@
+✔️ 사이트 접속 완료 (conftest.py)
+로그인 시도
+이메일 입력: qa3team06@elicer.com
+비밀번호 입력
+로그인 버튼 클릭
+로그인 버튼 클릭 완료
+== 언어 설정 클릭 중 ==
+✔️ 언어 설정 클릭 완료
+✔️ 'American English' 선택 완료
+✅ 언어 변경 확인 성공!
+✅ 페이지를 새로고침했습니다.
+
+== 언어 설정 원상복구 시작 ==
+⚠️ 언어 설정 원상복구 실패: Message: element click intercepted: Element <svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiAvatar-fallback css-pz2598" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="PersonIcon">...</svg> is not clickable at point (996, 31). Other element would receive the click: <div aria-hidden="true" class="MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop css-esi9ax" style="opacity: 1; transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1);"></div>
+  (Session info: chrome=143.0.7499.170); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xc712d3
+	0xc71314
+	0xa5e6dd
+	0xaaf8ef
+	0xaadbdc
+	0xaab6c2
+	0xaaa945
+	0xa9f1c8
+	0xacb4ec
+	0xa9ec34
+	0xacb6a4
+	0xaedb13
+	0xacb2e6
+	0xa9d321
+	0xa9e1d4
+	0xec5314
+	0xec08cb
+	0xedd1aa
+	0xc8b1d8
+	0xc931dd
+	0xc795d8
+	0xc79799
+	0xc63b28
+	0x759d5d49
+	0x774fd5db
+	0x774fd561
+
+
+ WebDriver 종료 중 ...
